@@ -7,8 +7,16 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poisonbeak/Calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Poisonbeak/Calculator/issues"
+  },
+  "homepage": "https://github.com/Poisonbeak/Calculator#readme",
+  "description": ""
 }
